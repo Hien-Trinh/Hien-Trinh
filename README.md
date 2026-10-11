@@ -1,8 +1,8 @@
 # Hien (David) Trinh
 
-**`College Student (CS/Statistic/Economics)`**
+**`College Student (CS/Statistic)`**
 
-I’m a full-time senior at Macalester College in Minnesota. Most of my projects are special in-class projects, with some passion projects in between.
+I’m a full-time senior. Most of my projects are special in-class projects, with some passion projects in between.
 
 ---
 
